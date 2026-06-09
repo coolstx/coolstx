@@ -1,9 +1,17 @@
 <h1 align="center">ᴄᴏᴏʟꜱᴛ</h1>
 
 <p align="center">
-  building things, breaking things, learning from both
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Building+secure+systems...;Breaking+complex+architectures...;Learning+from+both+sides.;Cyber+Security+Enthusiast."
+    alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-OSINT-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github-actions" />
+</p>
+
+---
 
 ## whoami
 ```bash
@@ -20,58 +28,60 @@ hobbies   : ctf, competitive programming, building projects
 
 ---
 
+## 🛠 Tech Arsenal
 
+### 💻 Languages & Environments
 <p align="left">
-<a href="https://instagram.com/coolxst" target="_blank" style="margin-right: 10px;">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,bash,linux,nodejs,javascript,html,css" />
+</p>
 
-<a href="https://codeforces.com/profile/coolst" target="_blank" style="margin-right: 10px;">
-<img src="https://cdn.simpleicons.org/codeforces" width="48" />
-</a>
-
-<a href="https://www.hackerrank.com/uilswxrd" target="_blank" style="margin-right: 10px;">
-<img src="https://cdn.simpleicons.org/hackerrank" width="48" />
-</a>
-
-<a href="https://dev.to/coolst" target="_blank">
-<img src="https://cdn.simpleicons.org/devdotto" width="48" />
-</a>
+### 🛡 Security & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,git,githubactions,vscode,postman,docker" />
 </p>
 
 ---
 
-## tech stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,linux,bash,nodejs,react,javascript,python,html,css" />
+## 📊 Mission Intelligence
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coolstx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolstx&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-## current interests
-
-- cyber security
-- capture the flag
-- full stack developer
-- algorithms & problem solve
-- kali linux enjoyer
-
----
-
-## mission
-
-- learn offensive & defensive security
-- build tools that solve real problems
-- compete with the best in CTFs
-- leave every project better than I found it
-
----
-
-## quote
-
-> every flag starts with curiosity.
 
 <p align="center">
-  <sub>last updated automatically by determination.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolstx&theme=tokyonight&hide_border=true" width="100%" />
 </p>
+
+---
+
+## 🕵️ Current Interests
+- 🚩 **CTF:** Actively solving challenges on HTB & THM.
+- ⚡ **Performance:** Competitive programming with C++.
+- 🏗 **Architecture:** Building robust full-stack applications.
+- 🐧 **Linux:** Mastering the art of command line and automation.
+
+---
+
+## 🌐 Connectivity
+<p align="left">
+<a href="https://instagram.com/coolxst" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://codeforces.com/profile/coolst" target="_blank">
+  <img src="https://simpleicons.org/icons/codeforces.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle; filter: invert(1);" />
+</a>
+<a href="https://www.hackerrank.com/uilswxrd" target="_blank">
+  <img src="https://simpleicons.org/icons/hackerrank.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle;" />
+</a>
+<a href="https://dev.to/coolst" target="_blank">
+  <img src="https://simpleicons.org/icons/devdotto.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle; filter: invert(1);" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Every flag starts with curiosity."</i><br>
+  <sub>Automatically monitored and updated by <a href="https://github.com/coolstx/contribution">Advanced Contribution Bot</a>.</sub>
+</p>
+
