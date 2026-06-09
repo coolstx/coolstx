@@ -43,17 +43,12 @@ hobbies   : ctf, competitive programming, building projects
 ---
 
 ## 📊 Mission Intelligence
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coolstx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolstx&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolstx&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolstx&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
-
 ## 🕵️ Current Interests
 - 🚩 **CTF:** Actively solving challenges on HTB & THM.
 - ⚡ **Performance:** Competitive programming with C++.
