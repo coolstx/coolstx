@@ -65,9 +65,7 @@ hobbies   : ctf, competitive programming, building projects
 <a href="https://codeforces.com/profile/coolst" target="_blank">
   <img src="https://simpleicons.org/icons/codeforces.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle; filter: invert(1);" />
 </a>
-<a href="https://www.hackerrank.com/uilswxrd" target="_blank">
-  <img src="https://simpleicons.org/icons/hackerrank.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle;" />
-</a>
+
 <a href="https://dev.to/coolst" target="_blank">
   <img src="https://simpleicons.org/icons/devdotto.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle; filter: invert(1);" />
 </a>
