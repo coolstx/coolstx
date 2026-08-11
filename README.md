@@ -1,80 +1,59 @@
-<h1 align="center">ᴄᴏᴏʟꜱᴛ</h1>
+<h1 align="center">👋 Hey, I'm Coolst</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Building+secure+systems...;Breaking+complex+architectures...;Learning+from+both+sides.;Cyber+Security+Enthusiast."
-    alt="Typing SVG" />
+  <b>Cybersecurity Enthusiast · Developer · CTF Player</b>
+</p>
+
+---
+
+<p>
+  I'm a cybersecurity enthusiast and developer who enjoys breaking things
+  apart, understanding how they work, and building them back together.
+</p>
+
+<p>
+  My primary language is <b>C++</b>, and I also use <b>Python</b> for
+  scripting, automation, and solving technical challenges.
+</p>
+
+<p>
+  Currently, I'm diving deeper into <b>reverse engineering</b> — analyzing
+  binaries, understanding low-level systems, solving CTF challenges,
+  and exploring vulnerabilities.
+</p>
+
+<h2>🛠️ Skills & Interests</h2>
+
+<ul>
+  <li><b>Languages:</b> C, C++, Java, Go, Python</li>
+  <li><b>Web:</b> HTML, CSS</li>
+  <li><b>Algorithms:</b> Competitive programming & problem solving</li>
+  <li><b>Cybersecurity:</b> CTFs, vulnerability research, reverse engineering</li>
+  <li><b>Systems:</b> Low-level programming & binary analysis</li>
+  <li><b>Automation:</b> Python scripting & tooling</li>
+</ul>
+
+<h2>🔐 Currently Exploring</h2>
+
+<ul>
+  <li>Reverse engineering</li>
+  <li>Binary analysis</li>
+  <li>Vulnerability research</li>
+  <li>CTF challenges</li>
+  <li>Low-level systems</li>
+  <li>Security tooling</li>
+</ul>
+
+<blockquote>
+  <i>"The only way to truly learn is to break things and put them back together."</i>
+  — Unknown
+</blockquote>
+
+<p>
+  Feel free to explore my repositories, leave a ⭐, or reach out for
+  collaboration.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-OSINT-red?style=for-the-badge&logo=kali-linux" />
-  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github-actions" />
+  <b>Break. Analyze. Rebuild. Learn.</b>
 </p>
-
----
-
-## whoami
-```bash
-┌──(coolst㉿github)-[~/profile]
-└─$ whoami
-
-name      : coolst
-location  : mongolia
-role      : student
-focus     : cybersecurity
-stack     : fullstack development
-hobbies   : ctf, competitive programming, building projects
-```
-
----
-
-## 🛠 Tech Arsenal
-
-### 💻 Languages & Environments
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,bash,linux,nodejs,javascript,html,css" />
-</p>
-
-### 🛡 Security & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,git,githubactions,vscode,postman,docker" />
-</p>
-
----
-
-## 📊 Mission Intelligence
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolstx&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
-
----
-## 🕵️ Current Interests
-- 🚩 **CTF:** Actively solving challenges on HTB & THM.
-- ⚡ **Performance:** Competitive programming with C++.
-- 🏗 **Architecture:** Building robust full-stack applications.
-- 🐧 **Linux:** Mastering the art of command line and automation.
-
----
-
-## 🌐 Connectivity
-<p align="left">
-<a href="https://instagram.com/coolxst" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://codeforces.com/profile/coolst" target="_blank">
-  <img src="https://simpleicons.org/icons/codeforces.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle; filter: invert(1);" />
-</a>
-
-<a href="https://dev.to/coolst" target="_blank">
-  <img src="https://simpleicons.org/icons/devdotto.svg" width="48" height="48" style="margin-left: 10px; vertical-align: middle; filter: invert(1);" />
-</a>
-</p>
-
----
-
-<p align="center">
-  <i>"Every flag starts with curiosity."</i><br>
-  <sub>Automatically monitored and updated by <a href="https://github.com/coolstx/contribution">Advanced Contribution Bot</a>.</sub>
-</p>
-
