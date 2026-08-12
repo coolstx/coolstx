@@ -1,9 +1,5 @@
 <h1 align="center">hey, i'm coolst</h1>
 
-<p align="center">
-  <sub>cybersecurity · c++ · reverse engineering</sub>
-</p>
-
 ---
 
 ```text
