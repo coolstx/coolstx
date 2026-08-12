@@ -1,59 +1,46 @@
-<h1 align="center">👋 Hey, I'm Coolst</h1>
+<h1 align="center">hey, i'm coolst</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast · Developer · CTF Player</b>
+  <sub>cybersecurity · c++ · reverse engineering</sub>
 </p>
 
 ---
 
-<p>
-  I'm a cybersecurity enthusiast and developer who enjoys breaking things
-  apart, understanding how they work, and building them back together.
-</p>
+```text
+i like breaking things,
+figuring out how they work,
+then building them better.
+```
 
-<p>
-  My primary language is <b>C++</b>, and I also use <b>Python</b> for
-  scripting, automation, and solving technical challenges.
-</p>
+### `about`
 
-<p>
-  Currently, I'm diving deeper into <b>reverse engineering</b> — analyzing
-  binaries, understanding low-level systems, solving CTF challenges,
-  and exploring vulnerabilities.
-</p>
+* mainly working with `c++`
+* scripting with `python`
+* into reverse engineering & binary analysis
+* solving ctf challenges
+* learning low-level stuff
+* building random tools along the way
 
-<h2>🛠️ Skills & Interests</h2>
+### `stack`
 
-<ul>
-  <li><b>Languages:</b> C, C++, Java, Go, Python</li>
-  <li><b>Web:</b> HTML, CSS</li>
-  <li><b>Algorithms:</b> Competitive programming & problem solving</li>
-  <li><b>Cybersecurity:</b> CTFs, vulnerability research, reverse engineering</li>
-  <li><b>Systems:</b> Low-level programming & binary analysis</li>
-  <li><b>Automation:</b> Python scripting & tooling</li>
-</ul>
+`c` · `c++` · `python` · `go` · `java`
+`html` · `css` · `linux` · `git`
 
-<h2>🔐 Currently Exploring</h2>
+### `rn`
 
-<ul>
-  <li>Reverse engineering</li>
-  <li>Binary analysis</li>
-  <li>Vulnerability research</li>
-  <li>CTF challenges</li>
-  <li>Low-level systems</li>
-  <li>Security tooling</li>
-</ul>
+```text
+reverse engineering
+binary analysis
+vulnerability research
+ctfs
+low-level systems
+security tooling
+```
 
-<blockquote>
-  <i>"The only way to truly learn is to break things and put them back together."</i>
-  — Unknown
-</blockquote>
-
-<p>
-  Feel free to explore my repositories, leave a ⭐, or reach out for
-  collaboration.
-</p>
+> break it.
+> understand it.
+> rebuild it.
 
 <p align="center">
-  <b>Break. Analyze. Rebuild. Learn.</b>
+  <sub>just learning, building & breaking things.</sub>
 </p>
