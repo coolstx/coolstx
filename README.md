@@ -1,42 +1,57 @@
-<h1 align="center">hey, i'm coolst</h1>
+Hey, I’m coolstx
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:301934,100:8b5cf6&height=180&section=header&text=COOLSTX&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-```text
-i like breaking things,
-figuring out how they work,
-then building them better.
-```
+Security • Code • Intelligence
 
-### `about`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;Exploring+Cybersecurity.;Learning+Computer+Science." />
+</div>
 
-* mainly working with `c++`
-* scripting with `python`
-* into reverse engineering & binary analysis
-* solving ctf challenges
-* learning low-level stuff
-* building random tools along the way
+⸻
 
-### `stack`
+whoami
 
-`c` · `c++` · `python` · `go` · `java`
-`html` · `css` · `linux` · `git`
+I’m a student from Mongolia interested in Computer Science, Cybersecurity and Software Engineering.
 
-### `rn`
+* Interested in low-level programming and security
+* Competitive programming enthusiast
+* Exploring Linux and computer networks
+* Always learning something new
 
-```text
-reverse engineering
-binary analysis
-vulnerability research
-ctfs
-low-level systems
-security tooling
-```
+tech stack
 
-> break it.
-> understand it.
-> rebuild it.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,bash,git,github,vscode&theme=dark" />
+</div>
 
-<p align="center">
-  <sub>just learning, building & breaking things.</sub>
-</p>
+github statistics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coolstx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coolstx&theme=tokyonight&hide_border=true&background=0d1117" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolstx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+⸻
+
+achievements
+
+* National IT Olympiad — Silver Medal
+* Multiple regional programming competition awards
+
+currently exploring
+
+* Cybersecurity & Reverse Engineering
+* Data Structures & Algorithms
+* Network Security
+* Software Engineering
+
+⸻
+
+<div align="center">
+
+let’s build something.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:301934,100:09090f&height=100&section=footer" width="100%"/>
+</div>
