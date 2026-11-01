@@ -22,7 +22,7 @@ I’m a student from Mongolia interested in Computer Science, Cybersecurity and 
 tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,linux,bash,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" />
 </div>
 
 github statistics
