@@ -1,7 +1,7 @@
 Hey, I’m coolstx
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:301934,100:8b5cf6&height=180&section=header&text=COOLSTX&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:301934,100:8b5cf6&height=180&section=header&text=COOLST&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
 Security • Code • Intelligence
 
