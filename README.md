@@ -1,49 +1,48 @@
-Hey, I’m coolstx
+# Hey, I'm coolstx.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:301934,100:8b5cf6&height=180&section=header&text=COOLST&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:301934,100:8b5cf6&height=180&section=header&text=COOLST&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-Security • Code • Intelligence
+  **Computer Science · Cybersecurity · Development**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;Exploring+Cybersecurity.;Learning+Computer+Science." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=450&lines=Interested+in+Cybersecurity.;Learning+and+building.;Exploring+Computer+Science." />
 </div>
 
-⸻
+---
 
-whoami
+### About me
 
-I’m a student from Mongolia interested in Computer Science, Cybersecurity and Software Engineering.
+I'm a student from Mongolia interested in computer science and software development.
 
-* Interested in low-level programming and security
-* Competitive programming enthusiast
-* Exploring Linux and computer networks
-* Always learning something new
+- Interested in cybersecurity and reverse engineering
+- Learning low-level programming
+- Practicing competitive programming
+- Exploring Linux and networking
 
-tech stack
+### Tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,linux,git,vscode&theme=dark" />
 </div>
 
-⸻
+### Achievements
 
-achievements
+- National IT Olympiad — Silver Medal
+- Regional programming competition awards
 
-* National IT Olympiad — Silver Medal
-* Multiple regional programming competition awards
+### Currently learning
 
-currently exploring
+- Cybersecurity
+- Reverse Engineering
+- Data Structures & Algorithms
+- Network Security
 
-* Cybersecurity & Reverse Engineering
-* Data Structures & Algorithms
-* Network Security
-* Software Engineering
-
-⸻
+---
 
 <div align="center">
 
-let’s build something.
+  **Thanks for visiting my profile.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:301934,100:09090f&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:301934,100:09090f&height=100&section=footer" width="100%" />
+
 </div>
