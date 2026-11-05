@@ -22,7 +22,7 @@ I'm a student from Mongolia interested in computer science and software developm
 ### Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,linux,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" />
 </div>
 
 ### Achievements
